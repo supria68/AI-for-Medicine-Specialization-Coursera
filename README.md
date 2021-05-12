@@ -1,7 +1,5 @@
 # AI for Medicine Specialization
 
-**[AI for Medicine Specialization](https://www.coursera.org/specializations/ai-for-medicine?)**
-
 + **[AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis)**
   + [Week 1](AI%20for%20Medical%20Diagnosis/Week%201)
     + Chest X-Ray Medical Diagnosis with Deep Learning
