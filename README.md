@@ -12,7 +12,7 @@ This repository consists of solutions to assignments of the coursera course: [AI
     
 + **AI for Medical Prognosis**
   + [Week 1](AI%20for%20Medical%20Prognosis/Week%201)
-    + Build and Evaluate Linear Risk Models for retinopathy in diabetes patients
+    + Build and Evaluate Linear Risk Models for Retinopathy in Diabetic Patients
   + [Week 2](AI%20for%20Medical%20Prognosis/Week%202)
     + Risk Models Using Tree-based Models
   + [Week 3](AI%20for%20Medical%20Prognosis/Week%203)
